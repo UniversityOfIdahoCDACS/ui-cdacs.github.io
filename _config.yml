@@ -1,0 +1,5 @@
+remote_theme: pages-themes/slate
+plugins:
+  - jekyll-remote-theme
+
+title: U of I CDACS
